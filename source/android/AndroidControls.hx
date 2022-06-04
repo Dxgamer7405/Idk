@@ -5,15 +5,15 @@ import flixel.group.FlxSpriteGroup;
 import flixel.util.FlxSave;
 import flixel.math.FlxPoint;
 
-import android.flixel.FlxVirtualPad;
-import android.flixel.FlxHitbox;
+import android.FlxVirtualPad;
+import android.FlxHitbox;
 
 class Config {
 	var save:FlxSave;
 
 	public function new() {
 		save = new FlxSave();
-		save.bind('saved-controls');
+		save.bind("saved-controls");
 	}
 
 	public function getcontrolmode():Int {

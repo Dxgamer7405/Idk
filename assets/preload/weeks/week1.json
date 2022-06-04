@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "",
+	"difficulties": "pussy,hard,hell",
+	"hideFreeplay": false,
+	"weekBackground": "hypno",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"Hyp",
+		""
+	],
+	"songs": [
+		[
+			"Safety-Lullaby",
+			"hypno",
+			[
+				215,
+				175,
+				55
+			]
+		],
+		[
+			"Left-Unchecked",
+			"hypno2",
+			[
+				215,
+				175,
+				55
+			]
+		],
+		[
+			"Lost-Cause",
+			"hypno2",
+			[
+				215,
+				175,
+				55
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": ""
 }
